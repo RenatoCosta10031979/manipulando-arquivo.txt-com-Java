@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/cafecomjava/arquivos/.metadata/.plugins/org.eclipse.jdt.core
+1114528792.index
+276853413.index
+1865797976.index
